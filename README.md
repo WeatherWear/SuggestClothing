@@ -1,0 +1,4 @@
+SuggestClothing
+===============
+
+The SuggestClothing class
